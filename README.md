@@ -1,5 +1,5 @@
 # Hello-World
-started withgit
+started with git
 learing the commits in git after making
 hello world changes uhuhuaaa
 edited from pull check huhaal
